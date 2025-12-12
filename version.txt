@@ -1,1 +1,6 @@
-4.0 VVIPMODS
+VVIP V4.0
+dn
+bdm
+hsl
+jdl
+jdk
