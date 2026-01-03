@@ -1,5 +1,1 @@
-VVIPMODS 6.0
--$+$
-bsjs
-gsjs
-bsjs
+7.0 VVIPMODS
