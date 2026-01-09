@@ -1,6 +1,1 @@
-VVIPMODS 9.1
-hsjs
-js
-hsj
-hsj
-hsjs
+1.0 VVIPMODS
