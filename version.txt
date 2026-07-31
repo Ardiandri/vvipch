@@ -1,5 +1,1 @@
-VVIPMODS 3.0.1
--$+$
-b!$$
-jdkd
-hddj
+4.0.0 VVIPMODS
