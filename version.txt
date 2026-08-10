@@ -1,4 +1,1 @@
-VVIPMODS 5.1.0
-;$!$
-nddm
-djdm
+5.2.0 VVIPMODS
