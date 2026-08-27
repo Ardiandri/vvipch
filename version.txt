@@ -1,5 +1,1 @@
-6.0.0 VVIPMODS
-vsk
-nd
-jdkd
-hdjd
+-VVIPMODS 7.0
