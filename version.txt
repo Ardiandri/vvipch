@@ -1,4 +1,1 @@
-1.0.0 VVIPMODS_4.6
-bddk
-jdk
-hdjd
+VVIPMODS 2.0.0
